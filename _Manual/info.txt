@@ -1,0 +1,7 @@
+Build and Deploy the Official JSM Platform with Next 13| How I Made My Website Load in 0.364 Seconds
+--------------------------------------------------------------------
+https://www.youtube.com/watch?v=3WCIyNOrzwM  (2:33:04)
+26:31
+
+# Install Next.js app
+- npx create-next-app@latest resource-app
